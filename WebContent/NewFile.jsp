@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>NewFile.jsp</title>
 </head>
 <body>
 	<h2>깃 테스트</h2>
